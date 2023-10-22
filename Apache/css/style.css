@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    background-color: rgb(79, 105, 255);
+}
+thead{
+    background-color: rgb(241, 163, 163);
+}
+th{
+    background-color: rgb(255, 255, 255);
+}
+footer{
+    background-color: rgb(79, 105, 255);
+}
+.card{
+    width: 300px;
+    height: 300px;
+}
+ 

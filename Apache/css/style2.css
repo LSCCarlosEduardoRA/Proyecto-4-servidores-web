@@ -1,0 +1,21 @@
+header{
+    background: url(https://th.bing.com/th/id/R.c5f969c58e1d6875532b3eebbfc6f5d6?rik=6tDA0BrH7%2bCerg&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position:center;
+    height: 300px;
+}
+.container{
+    display:flow-root;
+    justify-content: right;
+}
+.imagen{
+    width: 350px;
+    height: 250px;
+}
+.txt{
+    margin-right: 50px;
+}
+
+p{
+    text-align: justify;
+}
